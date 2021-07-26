@@ -1,0 +1,22 @@
+.panda-bg-info{
+    background-color: #fceae8;
+}
+.ami-info-bg{
+    background-color: black;
+    color: white;
+    border-radius: 5%;
+    
+}
+.tmi-info-bg{
+    color: white;
+    background-color: black;
+    width: 75%;
+    padding-top: 5%;
+    padding-left: 16%;
+    border-radius: 2%;
+
+}
+.button{
+    margin-bottom: 5%;
+    width: 59%;
+}
